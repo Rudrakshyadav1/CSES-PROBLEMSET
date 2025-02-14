@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
